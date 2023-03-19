@@ -8,9 +8,8 @@ module.exports = {
     // Add the following lines to compile multiple solidity files
     // relative to the contracts folder
     glob: [
-      "hw_2_Challenge_Engine.sol",
-      "hw_2_Challenge_Game.sol"
+      "Engine.sol",
+      "Game.sol"
     ]
   }
 };
-
